@@ -12,7 +12,7 @@ public class DispositivoEntrada {
     }
 
     public String getTipoDeEntrada() {
-        return tipoDeEntrada;
+        return tipoDeEntrada; 
     }
 
     public void setTipoDeEntrada(String tipoDeEntrada) {

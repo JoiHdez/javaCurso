@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Carpinteria Carso/src"/>
+	<classpathentry kind="src" path="CreacionClasesObjetos/src"/>
+	<classpathentry kind="src" path="EjemploIf/src"/>
+	<classpathentry kind="src" path="EjemploIfElseIfElse/src"/>
+	<classpathentry kind="src" path="EjemplosIfElse/src"/>
+	<classpathentry kind="src" path="Hola Mundo/src"/>
+	<classpathentry kind="src" path="ManejoCadenaBasico/src"/>
+	<classpathentry kind="src" path="ManejoOperadares/src"/>
+	<classpathentry kind="src" path="ManejoVariables/src"/>
+	<classpathentry kind="src" path="MundoPC/src"/>
+	<classpathentry kind="src" path="NumerosAle/src"/>
+	<classpathentry kind="src" path="ProcedenciaOperadoressTest/src"/>
+	<classpathentry kind="lib" path="Carpinteria Carso/DateChooser.jar"/>
+	<classpathentry kind="lib" path="Carpinteria Carso/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="Carpinteria Carso/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="lib" path="NumerosAle/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="NumerosAle/dist/NumerosAle.jar"/>
+	<classpathentry kind="output" path="Carpinteria Carso/build/classes"/>
+</classpath>
